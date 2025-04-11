@@ -18,6 +18,8 @@
     </a>
   </div>
   <p></p>
+   <p></p>
+    <p></p>
   <!-- Contact -->
   <p>
     <a href="mailto:your.email@example.com" target="_blank">
