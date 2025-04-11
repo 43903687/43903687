@@ -1,4 +1,4 @@
-<div style="text-align: center; font-family: 'VT323', monospace;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 50vh; font-family: 'VT323', monospace;">
   <h1 style="font-size: 36px; margin-bottom: 10px;">Hey, I'm JunYuan</h1>
   <p style="font-size: 18px; margin-top: 0;">CS @ NTUT IFM | Coding Enthusiast</p>
   <img src="https://github.com/43903687/43903687/blob/main/load.gif" width="200" style="height: auto; margin: 20px 0;" />
