@@ -13,11 +13,11 @@
   <!-- Skills Icons using skillicons.dev with link to creator's GitHub -->
   <div style="margin: 20px 0;">
     <a href="https://github.com/tandpfun/skill-icons" target="_blank" title="Skill Icons by tandpfun">
-      <!-- 添加你的技能: python, vue, java, css, javascript, html -->
+      <!-- 添加你的技能: python, vue, java, css,sql, javascript, html -->
       <img src="https://skillicons.dev/icons?i=python,vue,java,sql,css,javascript,html" alt="Skills" />
     </a>
   </div>
-  
+  <p></p>
   <!-- Contact -->
   <p>
     <a href="mailto:your.email@example.com" target="_blank">
