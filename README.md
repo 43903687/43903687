@@ -2,7 +2,7 @@
 
 CS @ NTUT IFM | Coding Enthusiast
 
-![Loading Animation](https://github.com/4390368743903687/main/load.gif)
+![Loading Animation](https://github.com/43903687/43903687/blob/main/load.gif)
 
 ## 🔧 Skills
 🐍 Python  🌐 JS  🎨 CSS
@@ -11,4 +11,4 @@ CS @ NTUT IFM | Coding Enthusiast
 [Email](mailto:aa346851243903687@gmail.com)
 
 ## 📊 My Stats
-![JunYuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunYuan&show_icons=true&theme=dark)
+![43903687's GitHub Stats](https://github-readme-stats.vercel.app/api?username=43903687&show_icons=true&theme=dark)
