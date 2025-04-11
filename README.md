@@ -1,18 +1,43 @@
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 50vh; font-family: 'VT323', monospace;">
-  <h1 style="font-size: 36px; margin-bottom: 10px;">Hey, I'm JunYuan</h1>
-  <p style="font-size: 18px; margin-top: 0;">CS @ NTUT IFM | Coding Enthusiast</p>
-  <img src="https://github.com/43903687/43903687/blob/main/load.gif" width="200" style="height: auto; margin: 20px 0;" />
-  <div>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="32" height="32" style="margin: 0 10px;" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="32" height="32" style="margin: 0 10px;" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="32" height="32" style="margin: 0 10px;" />
-  </div>
-  <h2 style="font-size: 24px; margin-top: 20px;">Reach Me</h2>
-  <p>
-    <a href="mailto:aa346851243903687@gmail.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" /> aa346851243903687@gmail.com
-    </a>
-  </p>
+<div align="center">
+
+<!-- Dark Banner -->
+<img src="https://github.com/43903687/43903687/blob/main/dark-banner.png?raw=true" alt="Dark Banner" width="1200" height="150" style="border-radius: 10px;"/>
+
+<!-- Title -->
+<h1 style="font-family: 'Montserrat', sans-serif; color: #ffffff; font-size: 36px; margin: 20px 0 10px;">
+  Welcome to JunYuan's World
+</h1>
+
+<!-- Subtitle -->
+<p style="font-family: 'Roboto', sans-serif; color: #b0b0b0; font-size: 18px; margin: 0 0 20px;">
+  CS Student | Passionate About Coding & Innovation
+</p>
+
+<!-- Load.gif -->
+<img src="https://github.com/43903687/43903687/blob/main/load.gif?raw=true" alt="Cute Pig" width="200"/>
+
+<!-- Skills Icons -->
+<div style="margin: 20px 0;">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" width="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" alt="CSS" width="40" style="margin: 0 10px;"/>
+  </a>
 </div>
 
-<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<!-- Contact -->
+<p style="font-family: 'Roboto', sans-serif; color: #b0b0b0; font-size: 16px; margin: 20px 0 0;">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Gmail" width="30" style="vertical-align: middle; margin-right: 8px;"/>
+    Get in Touch
+  </a>
+</p>
+
+</div>
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400&display=swap" rel="stylesheet">
