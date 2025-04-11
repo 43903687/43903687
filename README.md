@@ -2,7 +2,7 @@
 
 CS @ NTUT IFM | Coding Enthusiast
 
-![Loading Animation](https://github.com/4390368743903687/load.gif)
+![Loading Animation](https://github.com/4390368743903687/main/load.gif)
 
 ## 🔧 Skills
 🐍 Python  🌐 JS  🎨 CSS
