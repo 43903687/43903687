@@ -2,7 +2,7 @@
 
 CS @ NTUT IFM | Coding Enthusiast
 
-<img src="https://github.com/JunYuan/JunYuan/blob/main/load.gif" width="300" />
+<img src="https://github.com/43903687/43903687/blob/main/load.gif" width="300" style="height: auto;" />
 
 ## 🔧 Skills
 🐍 Python  🌐 JS  🎨 CSS
