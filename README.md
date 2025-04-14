@@ -36,7 +36,7 @@
 
 <!-- Certifications (Left Aligned) -->
 <div style="width: 80%; margin: 0 auto; text-align: left;">
-  <h2>證照 (Certifications)</h2>
+  <h2>Certifications</h2>
   <ul style="list-style-type: none; padding: 0;">
     <li>丙級電腦軟體設計技術士 - 乙級電腦軟體設計技術士</li>
     <li>丙級會計事務技術士</li>
