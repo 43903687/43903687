@@ -23,9 +23,9 @@
 <div style="width: 80%; margin: 0 auto; text-align: left;">
   <h2>Competition Experience</h2>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🏆 North District Four-School Alliance Programming Competition – Honorable Mention</li>
+    <li>🏆 2023 North District Four-School Alliance Programming Competition – Honorable Mention</li>
     <li>🏆 2024 TBSA Innovation Proposal Competition – Honorable Mention</li>
-    <li><strong>🏆 ETH Global – Finalist</strong></li>
+    <li><strong>🏆2025 ETH Global Taipei – Finalist</strong></li>
   </ul>
 </div>
 
